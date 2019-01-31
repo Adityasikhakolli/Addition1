@@ -5,7 +5,10 @@
 	<parent>
 		<groupId>com.devops.calculator</groupId>
 		<artifactId>CalculatorApp-root</artifactId>
+
 		<version>1.0.0-SNAPSHOT1</version>
+
+		<version>1.0.0-SNAPSHOT2</version>
 	</parent>
 
 	<groupId>com.devops.calculator.addition</groupId>
