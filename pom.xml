@@ -9,6 +9,9 @@
 		<version>1.0.0-SNAPSHOT1</version>
 
 		<version>1.0.0-SNAPSHOT2</version>
+
+		<version>1.0.0-SNAPSHOT5</version>
+
 	</parent>
 
 	<groupId>com.devops.calculator.addition</groupId>
